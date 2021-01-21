@@ -17,4 +17,4 @@ Dad, researcher, and infosec psudo-specialist, posts and thoughts are my own. He
 <!-- BLOG-POST-LIST:END -->
 
 ## My dog Cluedo
-![My Dog Cluedo](/assets/dog_cluedo.jpg)
+<img src="https://raw.githubusercontent.com/pathtofile/pathtofile/main/assets/dog_cluedo.jpg" alt="My Dog Cluedo" width="363" height="348">
