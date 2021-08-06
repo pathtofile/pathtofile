@@ -9,11 +9,11 @@ Dad, researcher, and infosec psudo-specialist, posts and thoughts are my own. He
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bad BPF - Warping reality using eBPF](https://blog.tofile.dev/2021/08/01/bad-bpf.html)
 - [Detecting Kernel Hooking using eBPF](https://blog.tofile.dev/2021/07/07/ebpf-hooks.html)
 - [ETW on Windows 11 - Initial thoughts](https://blog.tofile.dev/2021/07/01/windows11.html)
 - [Gaining Threat-Intelligence the dodgy way](https://blog.tofile.dev/2021/05/12/sealighterti.html)
 - [Mapping It Out: Analyzing the Security of eBPF Maps](https://blog.tofile.dev/2021/02/22/csebpf.html)
-- [Using eBPF to uncover in-memory loading](https://blog.tofile.dev/2021/02/15/ebpf-01.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## My dog Cluedo
