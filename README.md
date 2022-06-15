@@ -7,7 +7,7 @@ Dad, researcher, and infosec psudo-specialist, posts and thoughts are my own. He
 - 🐣 [@pathtofile](https://twitter.com/pathtofile)
 - 📘 https://blog.tofile.dev
 - 🏢 [https://www.linkedin.com/in/phoganAU/](https://www.linkedin.com/in/phoganAU/)
-- 🗣️ [https://github.com/pathtofile/presentations](https://github.com/pathtofile/presentations)
+- 🗣️ [https://blog.tofile.dev/talks/](https://blog.tofile.dev/talks/)
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
