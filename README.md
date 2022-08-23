@@ -11,11 +11,11 @@ Dad, researcher, and infosec psudo-specialist, posts and thoughts are my own. He
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux cloud memory forensics tutorial](https://blog.tofile.dev/2022/08/22/cloud-forensics.html)
+- [Toucli - TouchID and the Secure Enclave from the commandline](https://blog.tofile.dev/2022/08/22/toucli.html)
 - [Commandline Cloaking 2 - Tetragon and Nim](https://blog.tofile.dev/2022/08/04/tetragon.html)
 - [SIEMCraft - Security detection monitoring using Minecraft](https://blog.tofile.dev/2022/06/10/siemcraft.html)
 - [Commandline Cloaking and Sysmon for Linux](https://blog.tofile.dev/2022/01/04/sysmonlinux.html)
-- [Hunting Sliver](https://blog.tofile.dev/2021/09/04/sliver.html)
-- [DEF CON 29: Bad BPF - Warping reality using eBPF](https://blog.tofile.dev/2021/08/01/bad-bpf.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## My dog Cluedo
