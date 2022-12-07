@@ -11,11 +11,11 @@ Dad, researcher, and infosec psudo-specialist, posts and thoughts are my own. He
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gaining Threat-Intelligence the REALLY dodgy way](https://blog.tofile.dev/2022/11/30/kdu_sealighter.html)
 - [Linux cloud memory forensics tutorial](https://blog.tofile.dev/2022/08/22/cloud-forensics.html)
 - [Tool - Use TouchID and the Secure Enclave from the commandline](https://blog.tofile.dev/2022/08/21/toucli.html)
 - [Commandline Cloaking 2 - Tetragon and Nim](https://blog.tofile.dev/2022/08/04/tetragon.html)
 - [Tool - Using AWS Lambdas to distribute WebRequests](https://blog.tofile.dev/2022/07/21/aws-webrunner.html)
-- [SIEMCraft - Security detection monitoring using Minecraft](https://blog.tofile.dev/2022/06/10/siemcraft.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## My dog Cluedo
